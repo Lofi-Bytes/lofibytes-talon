@@ -25,6 +25,5 @@ gibby:
 shibby:
   key(cmd-shift-`)
 
-goprev:
-  key(cmd-shift-[)
-
+preffies: app.preferences()
+swick: key(cmd-tab)

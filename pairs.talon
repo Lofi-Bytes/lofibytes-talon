@@ -53,3 +53,4 @@ brax:
 prank:
   user.insert_between(" ", " ")
 
+angler: user.insert_between("<", ">")

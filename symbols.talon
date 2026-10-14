@@ -92,3 +92,15 @@ divy: " / "
 
 lambo: "->"
 
+# Recovered familiar names.
+dolly: "$"
+(octo | thorpe): "#"
+brackorp: "["
+brackose: "]"
+kirksorp: "{"
+kirkos: "}"
+derangle: " > "
+doodle: ".."
+plustwice: "++"
+(ranqual | nockle): " !== "
+starqual: " *= "

@@ -70,3 +70,8 @@ scram:
 scrish:
   edit.extend_word_right()
 
+# Preserve the newer forms too.
+fame: edit.word_left()
+fish: edit.word_right()
+shroomway: edit.extend_file_end()
+schrim: edit.extend_left()

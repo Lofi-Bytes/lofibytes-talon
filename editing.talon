@@ -105,3 +105,7 @@ sunkshock:
   insert(";")
   key(return)
 
+marco next: edit.find_next()
+marco last: edit.find_previous()
+shocker | shockey: edit.line_insert_up()
+shockoon: edit.line_insert_down()

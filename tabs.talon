@@ -1,8 +1,8 @@
-# lofibytes: tab navigation outside messaging contexts.
-# In messaging contexts, Community's goneck keeps its next-unread meaning.
-# Elsewhere, preserve the original tab shortcut.
+# App-aware tabs outside messaging; Community goneck applies in messaging.
 os: mac
 mode: command
+tag: user.tabs
 not tag: user.messaging
 -
-goneck: key(cmd-shift-])
+goneck: app.tab_next()
+goprev: app.tab_previous()
