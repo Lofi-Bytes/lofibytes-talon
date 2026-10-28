@@ -22,6 +22,7 @@ cd: "cd "
 
 gas be developed: "gatsby develop"
 
+lofi bytes: "lofibytes"
 
 # Original inactive alternative, retained for reference:
 # shag <user.text>:
