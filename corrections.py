@@ -7,6 +7,14 @@ ctx.matches = "os: mac"
 CORRECTIONS = {
     ("low", "fy", "bytes"): "lofibytes",
     ("lofibites",): "lofibytes",
+    ("loti bytes",): "lofibytes",
+    ("lo fie bytes",): "lofibytes",
+    ("lo pi bytes",): "lofibytes",
+    ("astra",): "Estrella",
+    ("australia",): "Estrella",
+    ("gera",): "jira",
+    ("jere",): "jira",
+    ("a pi",): "API",
 }
 
 
