@@ -14,6 +14,7 @@ CORRECTIONS = {
     ("australia",): "Estrella",
     ("gera",): "jira",
     ("jere",): "jira",
+    ("jura",): "jira",
     ("a pi",): "API",
 }
 
