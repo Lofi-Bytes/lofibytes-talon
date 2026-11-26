@@ -20,7 +20,7 @@ banquall: " != "
 
 (downscore | crunder): "_"
 
-(semi | semicolon): ";"
+(semi | semicolon | sunk): ";"
 
 percy: "%"
 
