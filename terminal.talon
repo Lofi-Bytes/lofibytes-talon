@@ -14,4 +14,6 @@ pseudo: "sudo "
 shell kill: key(ctrl-c)
 shell mipple: "mkdir -p "
 npm: "npm "
-ellis: "ll "
+ellis:
+    insert("ll")
+    key(enter)

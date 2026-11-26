@@ -9,3 +9,9 @@ pathway <user.text>$: user.insert_formatted(text, "SLASH_SEPARATED")
 dotsway <user.text>$: user.insert_formatted(text, "DOT_SEPARATED")
 yellsnik <user.text>$: user.insert_formatted(text, "ALL_CAPS,SNAKE_CASE")
 yeller <user.text>$: user.insert_formatted(text, "ALL_CAPS")
+yell previous:
+    edit.extend_word_left()
+    user.formatters_reformat_selection("ALL_CAPS")
+caps previous:
+    edit.extend_word_left()
+    user.formatters_reformat_selection("CAPITALIZE_FIRST_WORD")
